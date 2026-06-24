@@ -1,0 +1,407 @@
+[
+  {
+    "id": "book_01",
+    "title": "Dagon",
+    "author": "H.P. Lovecraft",
+    "duration": "15m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,ocean,abyss",
+    "audioUrl": "https://archive.org/download/collected_lovecraft_0810_librivox/dagon_lovecraft_mras.mp3",
+    "source": "Archive.org"
+  },
+  {
+    "id": "book_02",
+    "title": "The Music of Erich Zann",
+    "author": "H.P. Lovecraft",
+    "duration": "22m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,violin,shadow",
+    "audioUrl": "https://archive.org/download/collected_lovecraft_0810_librivox/music_of_erich_zann_lovecraft_ch.mp3",
+    "source": "Archive.org"
+  },
+  {
+    "id": "book_03",
+    "title": "Nyarlathotep",
+    "author": "H.P. Lovecraft",
+    "duration": "10m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,egypt,ancient",
+    "audioUrl": "https://archive.org/download/collected_lovecraft_0810_librivox/nyarlathotep_lovecraft_dh.mp3",
+    "source": "Archive.org"
+  },
+  {
+    "id": "book_04",
+    "title": "The Cats of Ulthar",
+    "author": "H.P. Lovecraft",
+    "duration": "8m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,cat,mysterious",
+    "audioUrl": "https://archive.org/download/collected_lovecraft_0810_librivox/cats_of_ulthar_lovecraft_jp.mp3",
+    "source": "Archive.org"
+  },
+  {
+    "id": "book_05",
+    "title": "Herbert West: Reanimator",
+    "author": "H.P. Lovecraft",
+    "duration": "48m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,laboratory,horror",
+    "audioUrl": "https://archive.org/download/collected_lovecraft_0810_librivox/herbert_west_reanimator_A_lovecraft_mb.mp3",
+    "source": "Archive.org"
+  },
+  {
+    "id": "book_06",
+    "title": "The Nameless City",
+    "author": "H.P. Lovecraft",
+    "duration": "20m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?ruins,desert,ancient",
+    "audioUrl": "https://archive.org/download/collected_lovecraft_0810_librivox/nameless_city_lovecraft_sc.mp3",
+    "source": "Archive.org"
+  },
+  {
+    "id": "book_07",
+    "title": "The Tomb",
+    "author": "H.P. Lovecraft",
+    "duration": "18m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,tomb,cemetery",
+    "audioUrl": "https://archive.org/download/collected_lovecraft_0810_librivox/tomb_lovecraft_jp.mp3",
+    "source": "Archive.org"
+  },
+  {
+    "id": "book_08",
+    "title": "Polaris",
+    "author": "H.P. Lovecraft",
+    "duration": "9m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,stars,night",
+    "audioUrl": "https://archive.org/download/collected_lovecraft_0810_librivox/polaris_lovecraft_jp.mp3",
+    "source": "Archive.org"
+  },
+  {
+    "id": "book_09",
+    "title": "Beyond the Wall of Sleep",
+    "author": "H.P. Lovecraft",
+    "duration": "18m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,dream,surreal",
+    "audioUrl": "https://archive.org/download/collected_lovecraft_0810_librivox/beyond_the_wall_of_sleep_lovecraft_dw.mp3",
+    "source": "Archive.org"
+  },
+  {
+    "id": "book_10",
+    "title": "Dracula's Guest",
+    "author": "Bram Stoker",
+    "duration": "25m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,castle,vampire",
+    "audioUrl": "https://archive.org/download/draculas_guest_1003_librivox/stokershortstory_01_dracularsguest.mp3",
+    "source": "Archive.org"
+  },
+  {
+    "id": "book_11",
+    "title": "The Judge's House",
+    "author": "Bram Stoker",
+    "duration": "32m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,house,abandoned",
+    "audioUrl": "https://archive.org/download/draculas_guest_1003_librivox/stokershortstory_02_thejudgeshouse.mp3",
+    "source": "Archive.org"
+  },
+  {
+    "id": "book_12",
+    "title": "The Squaw",
+    "author": "Bram Stoker",
+    "duration": "22m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,medieval,torture",
+    "audioUrl": "https://archive.org/download/draculas_guest_1003_librivox/stokershortstory_03_thesquaw.mp3",
+    "source": "Archive.org"
+  },
+  {
+    "id": "book_13",
+    "title": "The Call of Cthulhu",
+    "author": "H.P. Lovecraft",
+    "duration": "1h 15m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,tentacles,sea",
+    "audioUrl": "https://archive.org/download/thecallofcthulhu_2206_librivox/thecallofcthulhu_01_lovecraft.mp3",
+    "source": "Archive.org"
+  },
+  {
+    "id": "book_14",
+    "title": "The Dunwich Horror",
+    "author": "H.P. Lovecraft",
+    "duration": "1h 30m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,fog,village",
+    "audioUrl": "https://archive.org/download/dunwich_horror_1511_librivox/dunwichhorror_01_lovecraft.mp3",
+    "source": "Archive.org"
+  },
+  {
+    "id": "book_15",
+    "title": "The Phantom of the Opera",
+    "author": "Gaston Leroux",
+    "duration": "6h 30m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,opera,mask",
+    "audioUrl": "https://archive.org/download/phantom_opera_rs_librivox/phantomoftheopera_01_leroux.mp3",
+    "source": "Archive.org"
+  },
+  {
+    "id": "book_16",
+    "title": "The Tell-Tale Heart",
+    "author": "Edgar Allan Poe",
+    "duration": "14m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,heart,horror",
+    "audioUrl": "https://etc.usf.edu/lit2go/audio/mp3/the-works-of-edgar-allan-poe-056-the-tell-tale-heart.5314.mp3",
+    "source": "Lit2Go"
+  },
+  {
+    "id": "book_17",
+    "title": "The Fall of the House of Usher",
+    "author": "Edgar Allan Poe",
+    "duration": "35m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,mansion,decay",
+    "audioUrl": "https://etc.usf.edu/lit2go/audio/mp3/the-works-of-edgar-allan-poe-055-the-fall-of-the-house-of-usher.5312.mp3",
+    "source": "Lit2Go"
+  },
+  {
+    "id": "book_18",
+    "title": "The Cask of Amontillado",
+    "author": "Edgar Allan Poe",
+    "duration": "15m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,wine,cellar",
+    "audioUrl": "https://etc.usf.edu/lit2go/audio/mp3/the-works-of-edgar-allan-poe-016-the-cask-of-amontillado.5245.mp3",
+    "source": "Lit2Go"
+  },
+  {
+    "id": "book_19",
+    "title": "A Descent into the Maelstrom",
+    "author": "Edgar Allan Poe",
+    "duration": "30m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,whirlpool,storm",
+    "audioUrl": "https://etc.usf.edu/lit2go/audio/mp3/the-works-of-edgar-allan-poe-027-a-descent-into-the-maelstrom.5262.mp3",
+    "source": "Lit2Go"
+  },
+  {
+    "id": "book_20",
+    "title": "The Black Cat",
+    "author": "Edgar Allan Poe",
+    "duration": "20m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,black,cat",
+    "audioUrl": "https://etc.usf.edu/lit2go/audio/mp3/the-works-of-edgar-allan-poe-011-the-black-cat.5235.mp3",
+    "source": "Lit2Go"
+  },
+  {
+    "id": "book_21",
+    "title": "The Masque of the Red Death",
+    "author": "Edgar Allan Poe",
+    "duration": "12m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,masquerade,red",
+    "audioUrl": "https://etc.usf.edu/lit2go/audio/mp3/the-works-of-edgar-allan-poe-098-the-masque-of-the-red-death.5383.mp3",
+    "source": "Lit2Go"
+  },
+  {
+    "id": "book_22",
+    "title": "The Pit and the Pendulum",
+    "author": "Edgar Allan Poe",
+    "duration": "25m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,dungeon,pendulum",
+    "audioUrl": "https://etc.usf.edu/lit2go/audio/mp3/the-works-of-edgar-allan-poe-088-the-pit-and-the-pendulum.5368.mp3",
+    "source": "Lit2Go"
+  },
+  {
+    "id": "book_23",
+    "title": "Ligeia",
+    "author": "Edgar Allan Poe",
+    "duration": "28m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,woman,ghost",
+    "audioUrl": "https://etc.usf.edu/lit2go/audio/mp3/the-works-of-edgar-allan-poe-094-ligeia.5376.mp3",
+    "source": "Lit2Go"
+  },
+  {
+    "id": "book_24",
+    "title": "The Premature Burial",
+    "author": "Edgar Allan Poe",
+    "duration": "22m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,coffin,burial",
+    "audioUrl": "https://etc.usf.edu/lit2go/audio/mp3/the-works-of-edgar-allan-poe-083-the-premature-burial.5360.mp3",
+    "source": "Lit2Go"
+  },
+  {
+    "id": "book_25",
+    "title": "William Wilson",
+    "author": "Edgar Allan Poe",
+    "duration": "35m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,mirror,doppelganger",
+    "audioUrl": "https://etc.usf.edu/lit2go/audio/mp3/the-works-of-edgar-allan-poe-014-william-wilson.5241.mp3",
+    "source": "Lit2Go"
+  },
+  {
+    "id": "book_26",
+    "title": "The Horror of the Heights",
+    "author": "Arthur Conan Doyle",
+    "duration": "28m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,sky,clouds",
+    "audioUrl": "https://etc.usf.edu/lit2go/audio/mp3/tales-of-terror-and-mystery-001-the-horror-of-the-heights.72.mp3",
+    "source": "Lit2Go"
+  },
+  {
+    "id": "book_27",
+    "title": "The Leather Funnel",
+    "author": "Arthur Conan Doyle",
+    "duration": "24m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,antique,leather",
+    "audioUrl": "https://etc.usf.edu/lit2go/audio/mp3/tales-of-terror-and-mystery-002-the-leather-funnel.73.mp3",
+    "source": "Lit2Go"
+  },
+  {
+    "id": "book_28",
+    "title": "The New Catacomb",
+    "author": "Arthur Conan Doyle",
+    "duration": "22m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,catacomb,underground",
+    "audioUrl": "https://etc.usf.edu/lit2go/audio/mp3/tales-of-terror-and-mystery-003-the-new-catacomb.74.mp3",
+    "source": "Lit2Go"
+  },
+  {
+    "id": "book_29",
+    "title": "The Brazilian Cat",
+    "author": "Arthur Conan Doyle",
+    "duration": "35m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,jungle,panther",
+    "audioUrl": "https://etc.usf.edu/lit2go/audio/mp3/tales-of-terror-and-mystery-006-the-brazilian-cat.77.mp3",
+    "source": "Lit2Go"
+  },
+  {
+    "id": "book_30",
+    "title": "The Terror of Blue John Gap",
+    "author": "Arthur Conan Doyle",
+    "duration": "30m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,cave,mystery",
+    "audioUrl": "https://etc.usf.edu/lit2go/audio/mp3/tales-of-terror-and-mystery-005-the-terror-of-blue-john-gap.76.mp3",
+    "source": "Lit2Go"
+  },
+  {
+    "id": "book_31",
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "duration": "15h 28m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,vampire,castle",
+    "audioUrl": "https://www.gutenberg.org/files/19797/mp3/19797-01.mp3",
+    "source": "Gutenberg"
+  },
+  {
+    "id": "book_32",
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "duration": "8h 35m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,lightning,monster",
+    "audioUrl": "https://www.gutenberg.org/files/20038/mp3/20038-01.mp3",
+    "source": "Gutenberg"
+  },
+  {
+    "id": "book_33",
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "duration": "7h 45m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,portrait,painting",
+    "audioUrl": "https://www.gutenberg.org/files/26230/mp3/26230-01.mp3",
+    "source": "Gutenberg"
+  },
+  {
+    "id": "book_34",
+    "title": "The Canterville Ghost",
+    "author": "Oscar Wilde",
+    "duration": "1h 10m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,ghost,manor",
+    "audioUrl": "https://www.gutenberg.org/files/20599/mp3/20599-01.mp3",
+    "source": "Gutenberg"
+  },
+  {
+    "id": "book_35",
+    "title": "The Monkey's Paw",
+    "author": "W.W. Jacobs",
+    "duration": "25m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,hand,curse",
+    "audioUrl": "https://www.gutenberg.org/files/28731/mp3/28731-01.mp3",
+    "source": "Gutenberg"
+  },
+  {
+    "id": "book_36",
+    "title": "The Metamorphosis",
+    "author": "Franz Kafka",
+    "duration": "2h 34m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,insect,surreal",
+    "audioUrl": "https://www.gutenberg.org/files/26298/mp3/26298-01.mp3",
+    "source": "Gutenberg"
+  },
+  {
+    "id": "book_37",
+    "title": "The Island of Doctor Moreau",
+    "author": "H.G. Wells",
+    "duration": "5h 20m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,island,jungle",
+    "audioUrl": "https://www.gutenberg.org/files/8971/mp3/8971-001.mp3",
+    "source": "Gutenberg"
+  },
+  {
+    "id": "book_38",
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "duration": "6h 50m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,moor,hound",
+    "audioUrl": "https://www.gutenberg.org/files/21520/mp3/21520-01.mp3",
+    "source": "Gutenberg"
+  },
+  {
+    "id": "book_39",
+    "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+    "author": "Robert Louis Stevenson",
+    "duration": "2h 45m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,potion,laboratory",
+    "audioUrl": "https://www.gutenberg.org/files/26247/mp3/26247-01.mp3",
+    "source": "Gutenberg"
+  },
+  {
+    "id": "book_40",
+    "title": "The War of the Worlds",
+    "author": "H.G. Wells",
+    "duration": "6h 45m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,alien,destruction",
+    "audioUrl": "https://www.gutenberg.org/files/8976/mp3/8976-001.mp3",
+    "source": "Gutenberg"
+  },
+  {
+    "id": "book_41",
+    "title": "The Time Machine",
+    "author": "H.G. Wells",
+    "duration": "3h 30m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,clock,time",
+    "audioUrl": "https://www.gutenberg.org/files/6620/mp3/6620-00.mp3",
+    "source": "Gutenberg"
+  },
+  {
+    "id": "book_42",
+    "title": "The Legend of Sleepy Hollow",
+    "author": "Washington Irving",
+    "duration": "1h 23m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,horseman,forest",
+    "audioUrl": "https://www.gutenberg.org/files/23965/mp3/23965-01.mp3",
+    "source": "Gutenberg"
+  },
+  {
+    "id": "book_43",
+    "title": "The Invisible Man",
+    "author": "H.G. Wells",
+    "duration": "5h 10m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,bandage,invisible",
+    "audioUrl": "https://www.gutenberg.org/files/26246/mp3/26246-01.mp3",
+    "source": "Gutenberg"
+  },
+  {
+    "id": "book_44",
+    "title": "The Raven",
+    "author": "Edgar Allan Poe",
+    "duration": "10m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,raven,gothic",
+    "audioUrl": "https://www.gutenberg.org/files/23901/mp3/23901-01.mp3",
+    "source": "Gutenberg"
+  },
+  {
+    "id": "book_45",
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "duration": "7h 50m",
+    "coverUrl": "https://source.unsplash.com/random/800x800/?dark,pirate,treasure",
+    "audioUrl": "https://www.gutenberg.org/files/23936/mp3/23936-01.mp3",
+    "source": "Gutenberg"
+  }
+]
